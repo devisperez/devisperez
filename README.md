@@ -4,7 +4,7 @@
 
 ## 🌟 Sobre mí
 
-- 🎓 **Especialista en Aprovechamiento de Recursos Hidráulicos** --> <a href="https://unal.edu.co/" target="blank"><img align="center" src="https://sibcolombia.net/wp-content/uploads/2016/08/Logo-unal.png" alt="Universidad Nacional de Colombia" height="30" width="60" /></a>
+- 🎓 **Especialista en Aprovechamiento de Recursos Hidráulicos** --> <a href="https://unal.edu.co/" target="blank"><img align="center" src="https://seeklogo.com/images/U/Universidad_Nacional_de_Colombia_-_Sede_Bogot_and__225_-logo-A05EAD6D0F-seeklogo.com.png" alt="Universidad Nacional de Colombia" height="30" width="60" /></a>
 - 🎓 **Máster en Modelización de Sistemas Hídricos** --> <a href="https://www.usal.es/" target="blank"><img align="center" src="https://www.usal.es/files/logo_usal.png" alt="devisalexanderpc" height="30" width="60" /></a>
 - 🎓 **Candidato a Doctorado en Ingeniería de Sistemas Hídricos** --> <a href="https://www.usal.es/" target="blank"><img align="center" src="https://www.usal.es/files/logo_usal.png" alt="devisalexanderpc" height="30" width="60" /></a>
 - 🌱 Actualmente trabajando como _Ingeniero Hidráulico_ en **WSP Colombia** --> <a href="https://www.linkedin.com/company/wsp-en-colombia/mycompany/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/WSP_logo.svg/102px-WSP_logo.svg.png" alt="devisalexanderpc" height="30" width="60" /></a>
