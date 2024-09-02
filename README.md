@@ -1,14 +1,18 @@
 # 👋 Hola, soy [Tu Nombre]
 
-¡Bienvenido a mi perfil de GitHub! Soy **Ingeniero Civil** especializado en **Recursos Hidráulicos**, con un **Máster en Modelización de Sistemas Hídricos** y **Candidato a Doctorado en Ingeniería de Sistemas Hídricos**. En este perfil comparto mis proyectos y contribuciones en el ámbito de la ingeniería y la modelización hidráulica.
+¡Bienvenido a mi perfil de GitHub! Soy **Ingeniero Civil** especializado en **Recursos Hidráulicos**, con un **Máster en Modelización de Sistemas Hídricos** y **Candidato a Doctorado en Ingeniería de Sistemas Hídricos**. En este perfil comparto mis proyectos y contribuciones en el ámbito de la ingeniería, la modelización hidráulica y la programación.
 
 ## 🌟 Sobre mí
 
 - 🎓 **Máster en Modelización de Sistemas Hídricos**
 - 🎓 **Candidato a Doctorado en Ingeniería de Sistemas Hídricos**
-- 🌱 Actualmente trabajando en [Tema de Investigación Actual o Proyecto]
-- 💬 Pregúntame sobre **modelización hidráulica**, **gestión de recursos hídricos**, y **software de ingeniería civil**.
-- 📫 Cómo contactarme: [Tu Email] | [Tu LinkedIn] | [Tu Twitter]
+- 🌱 Actualmente trabajando en ![WSP](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/WSP_logo.svg/102px-WSP_logo.svg.png).
+- 💬 Pregúntame sobre **modelización hidráulica e hidrológica**, **ingeniería del recursos hídricos**, y **cambio climático**.
+<h3 align="left">Contactame en:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/devisalexanderpc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devisalexanderpc" height="30" width="40" /></a>
+<a href="https://instagram.com/devisperez10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devisperez10" height="30" width="40" /></a>
+</p>
 
 ## 🛠️ Tecnologías y Herramientas
 
