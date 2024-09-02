@@ -1,4 +1,4 @@
-# 👋 Hola, soy [Tu Nombre]
+# 👋 ¿Como estas?, soy Devis Alexander Pérez Campo
 
 ¡Bienvenido a mi perfil de GitHub! Soy **Ingeniero Civil** especializado en **Recursos Hidráulicos**, con un **Máster en Modelización de Sistemas Hídricos** y **Candidato a Doctorado en Ingeniería de Sistemas Hídricos**. En este perfil comparto mis proyectos y contribuciones en el ámbito de la ingeniería, la modelización hidráulica y la programación.
 
@@ -6,7 +6,7 @@
 
 - 🎓 **Máster en Modelización de Sistemas Hídricos**
 - 🎓 **Candidato a Doctorado en Ingeniería de Sistemas Hídricos**
-- 🌱 Actualmente trabajando en ![WSP](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/WSP_logo.svg/102px-WSP_logo.svg.png).
+- 🌱 Actualmente trabajando en **WSP Colombia** <a href="https://www.linkedin.com/company/wsp-en-colombia/mycompany/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/WSP_logo.svg/102px-WSP_logo.svg.png" alt="devisalexanderpc" height="15" width="30" /></a>
 - 💬 Pregúntame sobre **modelización hidráulica e hidrológica**, **ingeniería del recursos hídricos**, y **cambio climático**.
 <h3 align="left">Contactame en:</h3>
 <p align="left">
@@ -31,16 +31,11 @@ Aquí están algunas de las herramientas y software con los que tengo experienci
 | **AutoCAD**   | ![AutoCAD](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Autodesk_AutoCAD_logo.svg/1200px-Autodesk_AutoCAD_logo.svg.png) |
 | **REVIT**     | ![REVIT](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Autodesk_Revit_logo.svg/1200px-Autodesk_Revit_logo.svg.png) |
 
-### **Lenguajes de Programación**
+### **Lenguajes y Herramientas de Programación**
 
 También tengo experiencia en los siguientes lenguajes de programación:
 
-| Lenguaje       | Logo                                                                 |
-|----------------|----------------------------------------------------------------------|
-| **Python**     | ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png) |
-| **VBA**        | ![VBA](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Visual_Basic_for_Applications_logo.svg/1024px-Visual_Basic_for_Applications_logo.svg.png) |
-| **Matlab**     | ![Matlab](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Matlab_Logo.png/1024px-Matlab_Logo.png) |
-| **JavaScript** | ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/1024px-JavaScript-logo.png) |
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 ## 🔧 Mis Proyectos
 
