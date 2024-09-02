@@ -13,22 +13,9 @@
 
 Puedes ponerte en contacto conmigo a través de las siguientes plataformas:
 
-<h3 align="left">Contactame en:</h3>
 <p align="left">
-  <a href="mailto:devperez602@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/material-outlined/24/000000/email.png" alt="Correo Electrónico" height="30" width="30" />
-    Email
-  </a>
-  <span> | </span>
-  <a href="https://linkedin.com/in/devisalexanderpc" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
-    LinkedIn
-  </a>
-  <span> | </span>
-  <a href="https://instagram.com/devisperez10" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
-    Instagram
-  </a>
+<a href="https://linkedin.com/in/devisalexanderpc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devisalexanderpc" height="30" width="40" /></a>
+<a href="https://instagram.com/devisperez10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devisperez10" height="30" width="40" /></a>
 </p>
 
 ## 🛠️ Tecnologías y Herramientas
