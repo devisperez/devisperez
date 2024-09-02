@@ -4,9 +4,9 @@
 
 ## 🌟 Sobre mí
 
-- 🎓 **Especialista en Aprovechamiento de Recursos Hidráulicos** --> <a href="https://unal.edu.co/" target="blank"><img align="center" src="https://www.manizales.unal.edu.co/typo3conf/ext/unal_skin_default/Resources/Public/images/escudoUnal.svg" alt="devisalexanderpc" height="20" width="50" /></a>
-- 🎓 **Máster en Modelización de Sistemas Hídricos** --> <a href="https://www.usal.es/" target="blank"><img align="center" src="https://www.usal.es/files/logo_usal.png" alt="devisalexanderpc" height="15" width="30" /></a>
-- 🎓 **Candidato a Doctorado en Ingeniería de Sistemas Hídricos** --> <a href="https://www.usal.es/" target="blank"><img align="center" src="https://www.usal.es/files/logo_usal.png" alt="devisalexanderpc" height="15" width="30" /></a>
+- 🎓 **Especialista en Aprovechamiento de Recursos Hidráulicos** --> <a href="https://unal.edu.co/" target="blank"><img align="center" src="https://unal.edu.co/_assets/ca8e1ca9a551c3e3ffc233b30e54ba93/images/escudoUnal.svg" alt="Universidad Nacional de Colombia" height="30" width="60" /></a>
+- 🎓 **Máster en Modelización de Sistemas Hídricos** --> <a href="https://www.usal.es/" target="blank"><img align="center" src="https://www.usal.es/files/logo_usal.png" alt="devisalexanderpc" height="30" width="60" /></a>
+- 🎓 **Candidato a Doctorado en Ingeniería de Sistemas Hídricos** --> <a href="https://www.usal.es/" target="blank"><img align="center" src="https://www.usal.es/files/logo_usal.png" alt="devisalexanderpc" height="30" width="60" /></a>
 - 🌱 Actualmente trabajando como _Ingeniero Hidráulico_ en **WSP Colombia** --> <a href="https://www.linkedin.com/company/wsp-en-colombia/mycompany/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/WSP_logo.svg/102px-WSP_logo.svg.png" alt="devisalexanderpc" height="15" width="30" /></a>
 - 💬 Pregúntame sobre **modelización hidráulica e hidrológica**, **ingeniería del recursos hídricos**, y **cambio climático**.
 
